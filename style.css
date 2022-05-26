@@ -1,11 +1,14 @@
+/*valori universali*/
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+/*font family*/
 body{
     font-family: 'Open Sans', sans-serif;
 }
+/*layout*/
 .flex-container{
     display: flex;
     justify-content: space-around;
@@ -41,7 +44,7 @@ body{
 .heart:hover{
     color: red;
 }
-
+/*commons*/
 .discount{
     display: flex;
     position: absolute;
