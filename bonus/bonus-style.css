@@ -100,10 +100,10 @@ body{
 
 .bonus-img{
     display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
 }
 .product:hover .bonus-img{
     display: block;
+    width: 100%;
+    position: absolute;
+    padding-right: 10px;
 }
